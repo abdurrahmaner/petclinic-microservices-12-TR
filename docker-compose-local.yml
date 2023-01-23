@@ -116,7 +116,11 @@ services:
     mem_limit: 256M
     ports:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 3306:3306
+=======
+    - 3306:3306
+>>>>>>> feature/msp-8
 =======
     - 3306:3306
 >>>>>>> feature/msp-8
